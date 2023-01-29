@@ -1,0 +1,26 @@
+c:\users\poyrazz\documents\visual studio 2013\Projects\odevv\odevv\bin\odevv.dll.config
+c:\users\poyrazz\documents\visual studio 2013\Projects\odevv\odevv\bin\odevv.dll
+c:\users\poyrazz\documents\visual studio 2013\Projects\odevv\odevv\bin\odevv.pdb
+c:\users\poyrazz\documents\visual studio 2013\Projects\odevv\odevv\obj\Debug\odevv.csprojResolveAssemblyReference.cache
+c:\users\poyrazz\documents\visual studio 2013\Projects\odevv\odevv\obj\Debug\odevv.dll
+c:\users\poyrazz\documents\visual studio 2013\Projects\odevv\odevv\obj\Debug\odevv.pdb
+F:\odevv\odevv\bin\odevv.dll.config
+F:\odevv\odevv\bin\odevv.dll
+F:\odevv\odevv\bin\odevv.pdb
+F:\odevv\odevv\obj\Debug\odevv.csprojResolveAssemblyReference.cache
+F:\odevv\odevv\obj\Debug\odevv.dll
+F:\odevv\odevv\obj\Debug\odevv.pdb
+E:\wep odevi ve yedekleri\odevv\odevv\bin\odevv.dll.config
+E:\wep odevi ve yedekleri\odevv\odevv\bin\odevv.dll
+E:\wep odevi ve yedekleri\odevv\odevv\bin\odevv.pdb
+E:\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.dll
+E:\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.pdb
+E:\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.csproj.AssemblyReference.cache
+E:\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.csproj.CoreCompileInputs.cache
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\bin\odevv.dll.config
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\bin\odevv.dll
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\bin\odevv.pdb
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.csproj.AssemblyReference.cache
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.csproj.CoreCompileInputs.cache
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.dll
+E:\XKARMA\wep odevi ve yedekleri\odevv\odevv\obj\Debug\odevv.pdb
